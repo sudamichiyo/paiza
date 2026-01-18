@@ -22,4 +22,4 @@ func main() {
 	fmt.Println(stag, etag)
 }
 
-// 問題URL:https://paiza.jp/works/mondai/c_rank_skillcheck_archive/extract_word_01
+// 問題URL:https://paiza.jp/works/mondai/c_rank_skillcheck_archive/extract_word_03
